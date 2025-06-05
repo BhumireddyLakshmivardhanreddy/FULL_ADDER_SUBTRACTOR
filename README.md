@@ -4,12 +4,13 @@ Implementation-of-Full-Adder-and-Full-subtractor-circuit
 ## Developed by: BHUMIREDDY LAKSHMI VARDHAN REDDY
 ## Register no.: 212223240016
 
+## Implementation of Full adder and Full subtractor circuits using Verilog HDL 
 
-**AIM:**
+**AIM**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-**Equipments Required:**
+**Equipments Required**
 
 Hardware – PCs, Cyclone II , USB flasher
 
@@ -50,7 +51,7 @@ Borrow out = A'Bin + A'B + BBin
 
 **Procedure**
 
-**Full Adder:**
+**Full Adder**
 1.Open Quartus II and create a new project.
 
 2.Use schematic design entry to draw the full adder circuit. 
@@ -61,7 +62,7 @@ Borrow out = A'Bin + A'B + BBin
 
 5.Implement the design on the target device and program it.
 
-**Full Subtractor:** 
+**Full Subtractor** 
 1.Follow the same steps as for the full adder. 
 
 2.Draw the full subtractor circuit using schematic design. 
@@ -70,7 +71,7 @@ Borrow out = A'Bin + A'B + BBin
 
 4.Compile, simulate, implement, and program the design similarly to the full adder.
 
-**Program:**
+**Program**
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
@@ -115,6 +116,6 @@ endmodule
 ![Screenshot 2025-04-27 120654](https://github.com/user-attachments/assets/3d9a2b4c-9554-4bc9-9b92-14bc37da4da7)
 
 
-**Result:**
+**Result**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
